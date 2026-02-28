@@ -1,6 +1,5 @@
 # 🤖 README — makemeet-tg-bot
 
-```markdown
 # MakeMeet Telegram Bot
 
 Telegram-интерфейс для админ-аналитики MakeMeet.
@@ -16,7 +15,7 @@ Telegram-интерфейс для админ-аналитики MakeMeet.
 
 ## Запуск
 
-bash
+```bash
 cd makemeet-tg-bot
 npm install
 node index.js
